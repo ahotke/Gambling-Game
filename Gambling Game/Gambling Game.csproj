@@ -89,5 +89,17 @@
   <ItemGroup>
     <None Include="Resources\die_face_6.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\die_face_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\die_face_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\die_face_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Casino_Table.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
